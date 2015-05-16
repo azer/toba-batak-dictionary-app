@@ -1,0 +1,29 @@
+{
+  "name": "toba-batak-dictionary-app",
+  "version": "0.0.0",
+  "description": "Toba Batak Dictionary App",
+  "main": "index.js",
+  "keywords": [
+    "toba",
+    "batak",
+    "sumatra",
+    "indonesia",
+    "dictionary",
+    "app"
+  ],
+  "repository": {
+    "url": "git@github.com:azer/toba-batak-dictionary-app.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD",
+  "dependencies": {
+    "brick": "0.0.10",
+    "centered": "0.0.2",
+    "debounce-fn": "0.0.0",
+    "dom-event": "0.0.5",
+    "pt-mono": "0.0.0",
+    "pt-serif": "0.0.2",
+    "toba-batak-dictionary": "0.0.0"
+  }
+}
